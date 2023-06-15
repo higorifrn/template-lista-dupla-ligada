@@ -2,7 +2,7 @@
 import os.path
 import sys
 from pytest import raises
-from lista_duplamente_ligada_ordenada_gabarito import ListaDuplamenteLigadaOrdenada
+from lista_duplamente_ligada_ordenada import ListaDuplamenteLigadaOrdenada
 
 
 # ---- INÍCIO: teste método is_empty()
